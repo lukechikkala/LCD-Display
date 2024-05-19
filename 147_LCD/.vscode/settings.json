@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "lcd_1in47.h": "c",
+        "gui_paint.h": "c"
+    }
+}
